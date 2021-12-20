@@ -13,7 +13,7 @@
             "food": "pizza",
             "insulinNum": "5",
             "grams": "100",
-            "endRoundTxtEng": "Well done completed the round",
+            "endRoundTxtEng": "Well done completed the round, you've colleced 5 insulins",
             "endRoundTxtCym": "Da iawn cwblhau'r rownd"
         },
         {
@@ -23,7 +23,7 @@
             "food": "banana",
             "insulinNum": "4",
             "grams": "20",
-            "endRoundTxtEng": "Well done completed the round",
+            "endRoundTxtEng": "Well done completed the round, you've colleced 4 insulins",
             "endRoundTxtCym": "Da iawn cwblhau'r rownd"
         },
         {
@@ -33,7 +33,7 @@
             "food": "spaghetti",
             "insulinNum": "7",
             "grams": "56",
-            "endRoundTxtEng": "Well done completed the round",
+            "endRoundTxtEng": "Well done completed the round, you've colleced 7 insulins",
             "endRoundTxtCym": "Da iawn cwblhau'r rownd"
         },
         {
@@ -43,7 +43,7 @@
             "food": "porridge",
             "insulinNum": "5",
             "grams": "75",
-            "endRoundTxtEng": "Well done completed the round",
+            "endRoundTxtEng": "Well done completed the round, you've colleced 5 insulins",
             "endRoundTxtCym": "Da iawn cwblhau'r rownd"
         },
         {
@@ -53,7 +53,7 @@
             "food": "sausage",
             "insulinNum": "4",
             "grams": "40",
-            "endRoundTxtEng": "Well done completed the round",
+            "endRoundTxtEng": "Well done completed the round, you've colleced 4 insulins",
             "endRoundTxtCym": "Da iawn cwblhau'r rownd"
         }
     ]
